@@ -1,0 +1,127 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "BK CLASSIC VEG",
+            "price": 79,
+            "image": "./images/image1.jpeg"
+        },
+        {
+            "id": 2,
+            "title": "VEG WHOPPER",
+            "price": 149,
+            "image": "./images/image2.jpeg"
+        },
+        {
+            "id": 3,
+            "title": "CHEESE MELTDOMWN",
+            "price": 169,
+            "image": "./images/image3.jpeg"
+        },
+        {
+            "id": 4,
+            "title": "PANEER OVERLOAD",
+            "price": 199,
+            "image": "./images/image4.jpeg"
+        },
+        {
+            "id": 5,
+            "title": "VEG BOSS WHOPPER",
+            "price": 199,
+            "image": "./images/image5.jpeg"
+
+        },
+        {
+            "id": 6,
+            "title": "CRISPY VEG BURGER",
+            "price": 55,
+            "image": " ./images/image10.jpg"
+           
+        },
+        {
+            "id": 7,
+            "title": "CRISPY VEG WRAP",
+            "price": 49,
+            "image": "./images/image12.jpg"
+        },
+        {
+            "id": 8,
+            "title": "FRIES (MEDIUM)",
+            "price": 99,
+            "image": "./images/image16.jpg"
+        },
+        {
+            "id": 9,
+            "title": "FRIES (KING)",
+            "price": 109,
+            "image": "./images/image17.jpg"
+        },
+        {
+            "id": 10,
+            "title": "PERI PERI FRIES (MEDIUM)",
+            "price": 99,
+            "image": "./images/image18.jpg"
+        },
+        {
+            "id": 11,
+            "title": "PERI PERI FRIES (KING)",
+            "price": 109,
+            "image": "./images/image18.jpg"
+        },
+        {
+            "id": 12,
+            "title": "CHEESY FRIES",
+            "price": 99,
+            "image": "./images/image6.jpg"
+        },
+        {
+            "id": 13,
+            "title": "CHEESY ITALIAN FRIES",
+            "price": 99,
+            "image": "./images/image8.jpg"
+        },
+        {
+            "id": 14,
+            "title": "VEGGIE STRIPS-5 PCS",
+            "price": 39,
+            "image": "./images/image20.jpg"
+        },
+        {
+            "id": 15,
+            "title": "VEG BOSS WHOPPER MEAL",
+            "price": 289,
+            "image": "./images/image21.jpg"
+        },
+        {
+            "id": 16,
+            "title": "VEG MEAL FOR 2",
+            "price": 459,
+            "image": "./images/image22.jpg"
+        },
+        {
+            "id": 17,
+            "title": "STRAWBERRY THICK SHAKE",
+            "price": 129,
+            "image": "./images/image19.jpg"
+        },
+        {
+            "id": 18,
+            "title": "MANGO THICK SHAKE",
+            "price": 129,
+            "image": "./images/image13.jpg"
+        },
+        {
+            "id": 19,
+            "title": "PEPSI BLACK",
+            "price": 57,
+            "image": "./images/image15.jpg"
+        },
+        {
+            "id": 20,
+            "title": "PEPSI",
+            "price": 57,
+            "image": "./images/image14.jpg"
+        }
+
+    ]
+}
